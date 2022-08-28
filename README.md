@@ -1,2 +1,2 @@
-# Factors responsible for heart attacks
+# Examining Factors Responsible for Heart Attacks
 Project description coming soon....
