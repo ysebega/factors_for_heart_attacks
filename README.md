@@ -1,2 +1,2 @@
-# factors_for_heart_attacks
+# Factors responsible for heart attacks
 Project description coming soon....
